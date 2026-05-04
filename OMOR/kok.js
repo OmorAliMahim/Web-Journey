@@ -1,0 +1,1 @@
+alert("Ami Omor Ali Mahim");
