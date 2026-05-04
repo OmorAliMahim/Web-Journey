@@ -1,2 +1,4 @@
 # Web-Journey
-This Repository represent my web design learning journey.
+Hello World,
+I'm Omor Ali Mahim
+This repository represents my web design learning journey.
