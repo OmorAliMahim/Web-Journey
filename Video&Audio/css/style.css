@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    background-color: greenyellow;
+    color: blanchedalmond;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+}
